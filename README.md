@@ -1,2 +1,3 @@
-# kopaabi
-The abi for kopa trust token
+# kopa Trust Token
+smart contract BEp20
+abi
